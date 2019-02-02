@@ -1,0 +1,14 @@
+/*make brand icons bigger*/
+i.icon {
+	font-size: 2em;
+}
+
+/*create margin for conatainers*/
+.container.main {
+	margin-top: 7.0em;
+}
+
+/*Make a form inline*/
+#delete {
+	display: inline;
+}
